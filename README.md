@@ -62,4 +62,4 @@ if __name__=='__main__':
     anim.save('brownian_motion.gif',writer='imagemagick') 
     fig.show()
 ```
-[!Alt txt]()
+![Alt txt](https://github.com/AODiakite/Brownian-Motion/blob/main/brownian_motion.gif)

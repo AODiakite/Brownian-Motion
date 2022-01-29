@@ -60,6 +60,5 @@ if __name__=='__main__':
     # call the animator	 
     anim = FuncAnimation(fig, animate, init_func=init, frames=200, interval=150, blit=True)
     anim.save('brownian_motion.gif',writer='imagemagick') 
-    fig.show()
 ```
 ![Alt txt](https://github.com/AODiakite/Brownian-Motion/blob/main/brownian_motion.gif)
